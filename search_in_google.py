@@ -13,7 +13,8 @@ def main():
         "google-me": [
             "Nextel",
             "telefonia do futuro",
-            "selenium python"
+            "selenium python",
+            "são paulo"
         ]
     }
 

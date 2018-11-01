@@ -8,6 +8,9 @@ Instalar o Selenium Framework
 Como o projeto utiliza driver do Firefox para pesquisar no Google, se estiver no Ubuntu, primero deve-se baixar o geckodrive https://github.com/mozilla/geckodriver/releases.
 Depois de descompatar o geckodrive, colocar no diretório /usr/local/bin/
 
+Comando para rodar o projeto:
+- python3 search_in_google.py
 
-Não utilizei testes unitários.
+
+Fiz tudo mas ão utilizei testes unitários :(
 
